@@ -20,21 +20,7 @@
 **Database:** Firebase Firestore, MongoDB  
 **Tools:** Git, GitHub, Postman, VS Code
 
-
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?amanspector=&show_icons=true&cache_seconds=1800)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanspector&layout=compact&cache_seconds=1800)
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=amanspector&cache_seconds=1800)
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=amanspector&label=Profile%20views&cache_seconds=1800)
-
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amanspector)
-
+---
 
 ## 📫 Connect With Me
 - 📧 Email: amanspector@email.com
