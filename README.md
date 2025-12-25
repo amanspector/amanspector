@@ -34,7 +34,7 @@
 ## 👀 Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=amanspector)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?amanspector=amanspector)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amanspector)
 
 
 ## 📫 Connect With Me
