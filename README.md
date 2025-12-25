@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi 👋 I'm Aman Sachla  
 
-<!--
-**amanspector/amanspector** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Graduate | 📱 Flutter Developer | 💻 Full-Stack Enthusiast  
+🚀 Actively looking for **Flutter Internship / Junior Developer roles**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- Flutter developer with hands-on experience in **Dart, Firebase, and REST APIs**
+- Built real-world apps like **ShareBite (Food Surplus Management App)** and **Weather App**
+- Comfortable with **Java, Python, JavaScript, Angular, Flutter, Firebase**
+- Interested in **Cloud, DevOps & scalable app development**
+
+---
+
+## 🛠️ Tech Stack
+**Mobile:** Flutter, Dart  
+**Backend:** Firebase, Java (Core),
+**Frontend:** HTML, CSS, Bootstrap,   
+**Database:** Firebase Firestore, MongoDB  
+**Tools:** Git, GitHub, Postman, VS Code
+
+
+## 📈 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: amanspector@email.com
