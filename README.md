@@ -14,11 +14,14 @@
 ---
 
 ## 🛠️ Tech Stack
-**Mobile:** Flutter, Dart  
-**Backend:** Firebase, Java (Core),
-**Frontend:** HTML, CSS, Bootstrap,   
-**Database:** Firebase Firestore, MongoDB  
-**Tools:** Git, GitHub, Postman, VS Code
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart)
+
+---
+
+## 🔥 GitHub Activity
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
 
 ---
 
