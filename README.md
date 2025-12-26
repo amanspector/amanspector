@@ -21,7 +21,7 @@
 ---
 
 ## 🔥 GitHub Activity
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME" />
+<img src="https://streak-stats.demolab.com?user=amanspector" />
 
 ---
 
