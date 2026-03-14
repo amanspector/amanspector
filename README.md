@@ -1,7 +1,7 @@
 # Hi 👋 I'm Aman
 
 🎓 MCA Graduate | 📱 Flutter Developer | 💻 Full-Stack Enthusiast  
-🚀 Actively looking for **Flutter Internship / Junior Developer roles**
+🚀 **Flutter Intern**
 
 ---
 
